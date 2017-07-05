@@ -1,0 +1,1 @@
+include ':app', ':vision-1.0.354', ':emotion-1.0.0', ':speechsdk'

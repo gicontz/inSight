@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Insight Prototype</string>
+    <string name="subscription_key">Subscription Key is Needed</string> <!-- Computer Vision subkey -->
+    <string name="subscription_key_face">Subscription Key is Needed</string>
+    <string name="subscription_key_voice">Subscription Key is Needed</string>
+    <string name="subscription_key_emotion">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Vision API calls.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_face">Face and Emotion Recognition</string>
+    <string name="title_activity_action">Action Recognition</string>
+    <string name="title_activity_ocr">Optical Character Recognition</string>
+    <string name="title_activity_object">Object Recognition</string>
+    <!-- Select image activity -->
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">From Gallery</string>
+
+    <!-- FACE -->
+    <string name="progress_dialog_title">Please wait</string>
+    <string name="title_activity_maps">Map</string>
+    <!---Setup for Pi -->
+    <string name="IpAdd">169.254.206.45</string>
+    <string name="UsernameFtp">pi</string>
+    <string name="PasswordFtp">raspberry</string>
+    <!--Setup for internet -->
+
+
+    <string name="IpNetUsername">koya</string>
+    <string name="IpNetPassword">counterstrike</string>
+
+    <!---
+        <string name="IpNetUsername">MELCHY-PC 9795</string>
+        <string name="IpNetPassword">47690F#s</string>
+     -->
+        <string name="your_title">What to Identify</string>
+    </resources>
